@@ -94,8 +94,8 @@
     "Chief Creative Officer"
   ],
   "clear_structure": "True",
-  "brainstorming": "False",
+  "brainstorming": "True",
   "gui_design": "True",
-  "git_management": "False",
-  "self_improve": "False"
+  "git_management": "True",
+  "self_improve": "True"
 }

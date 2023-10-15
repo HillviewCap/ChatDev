@@ -1,0 +1,1 @@
+I need a cybersecurity app that can evaluate a folder of saved e-mails for threats. If something suspicious is found use the virus total API to validate the threat. Every step of the process needs to be documented and provided as a report.
